@@ -254,5 +254,4 @@ export {
 	logRelativeDir,
 	parseFirebaseConfiguration,
 	validCloudRunServiceId,
-	validCloudFunctionName,
-};
+	validCloudFunctionName
